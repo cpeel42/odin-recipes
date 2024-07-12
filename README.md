@@ -1,0 +1,1 @@
+This is a recipes site coded in HTML. I will demonstrate creating text, links and images.
